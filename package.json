@@ -21,7 +21,10 @@
   "dependencies": {
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
-    "react-router-dom": "^7.18.3"
+    "react-router-dom": "^7.18.3",
+    "express": "^4.22.2",
+    "cors": "^2.8.6",
+    "puppeteer-core": "^22.15.0"
   },
   "description": "",
   "main": "index.js",
